@@ -1,0 +1,24 @@
+/* Common styles */
+@import "./utils/reset.scss";
+@import "./utils/base.scss";
+@import "./utils/typography.scss";
+
+
+/* Components styles */ 
+@import "./components/container.scss";
+@import "./components/header.scss";
+@import "./components/footer.scss";
+
+
+/* Catalogs styles */
+@import "./catalogs/excursion_catalog.scss";
+@import "./catalogs/food_catalog.scss";
+@import "./catalogs/jobs_catalog.scss";
+@import "./catalogs/news_catalog.scss";
+@import "./catalogs/night_life_catalog.scss";
+@import './catalogs/real_estate_catalog.scss';
+@import "./catalogs/to_do_catalog.scss";
+
+/* Pages styles */
+
+@import "./pages/main_page.scss";
